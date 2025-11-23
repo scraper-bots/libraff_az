@@ -1,0 +1,22 @@
+
+KEY INSIGHTS FROM DATA ANALYSIS:
+
+1. PRICING STRATEGY:
+   - Average book price: 13.00 AZN
+   - Most books (29,843) priced under 15 AZN
+   - Price range: 0.00 - 552.00 AZN
+
+2. CATALOG COMPOSITION:
+   - Total unique books: 43,520
+   - Top category: Klassiklər (7,351 books)
+   - Main category split: {'Bədii ədəbiyyat': 16416, 'Qeyri-bədii ədəbiyyat': 13142, 'Bədii uşaq ədəbiyyatı': 7159}
+
+3. INVENTORY STATUS:
+   - Total inventory units: 186,390
+   - Out of stock items: 0 (0.0%)
+   - High stock items (100+): 199
+
+4. BUSINESS VALUE:
+   - Total catalog value: 1,863,128.32 AZN
+   - Highest value category: Klassiklər (227,671.77 AZN)
+   - Average inventory per book: 4 units
